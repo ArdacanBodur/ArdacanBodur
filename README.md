@@ -30,6 +30,7 @@ A brief description of your project.
 
 ## GitHub Stats
 ![ArdacanBodur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdacanBodur&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdacanBodur&layout=compact&theme=radical)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ardacan-bodur-08447a321/)
