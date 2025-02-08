@@ -1,16 +1,38 @@
-## Hi there 👋
+```markdown name=README.md
+# Hi there, I'm Ardacan Bodur
+# A Cyber Security Student 👋
 
-<!--
-**ArdacanBodur/ArdacanBodur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Arda's GitHub profile!
+I'm a passionate programmer / operator with interests in various fields of cyber security and software development.
 
-Here are some ideas to get you started:
+## About Arda
+- 🌱 I’m currently learning new technologies and improving my skills.
+- 💬 Feel free to ask me about anything related to coding and cyber security
+- 📫 How to reach me: [Email](mailto:ardacanbodur06@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- Programming Languages: Python (yet...)
+- Penetration Testing: Metasploit Framework, Nmap, Wireshark, Aircrack-ng, Hydra etc.
+- Tools: Git (beginner ofc)
+
+## Projects
+Here are a few projects I've been working on:
+
+### Project 1: Awesome Project
+A brief description of your project.
+
+![Project Image](URL-to-image)
+
+### Project 2: Another Cool Project
+A brief description of your project.
+
+![Project Image](URL-to-image)
+
+## GitHub Stats
+![ArdacanBodur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdacanBodur&show_icons=true&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ardacan-bodur-08447a321/)
+
+Let's build the secure internet of tomorrow together! 😊
+```
