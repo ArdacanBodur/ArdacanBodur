@@ -1,4 +1,3 @@
-```markdown name=README.md
 # Hi there, I'm Ardacan Bodur
 # A Cyber Security Student 👋
 
@@ -36,4 +35,3 @@ A brief description of your project.
 - [LinkedIn](https://www.linkedin.com/in/ardacan-bodur-08447a321/)
 
 Let's build the secure internet of tomorrow together! 😊
-```
