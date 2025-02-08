@@ -17,15 +17,13 @@ I'm a passionate programmer / operator with interests in various fields of cyber
 ## Projects
 Here are a few projects I've been working on:
 
-### Project 1: Awesome Project
-A brief description of your project.
+### Project 1: Test
+Not available yet.
 
-![Project Image](URL-to-image)
 
-### Project 2: Another Cool Project
-A brief description of your project.
+### Project 2: Test
+Not available yet.
 
-![Project Image](URL-to-image)
 
 ## GitHub Stats
 ![ArdacanBodur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdacanBodur&show_icons=true&theme=radical)
