@@ -14,16 +14,6 @@ I'm a passionate programmer / operator with interests in various fields of cyber
 - Penetration Testing: Metasploit Framework, Nmap, Wireshark, Aircrack-ng, Hydra etc.
 - Tools: Git (beginner ofc)
 
-## Projects
-Here are a few projects I've been working on:
-
-### Project 1: Test
-Not available yet.
-
-
-### Project 2: Test
-Not available yet.
-
 
 ## GitHub Stats
 ![ArdacanBodur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdacanBodur&show_icons=true&theme=radical)
